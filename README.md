@@ -1,6 +1,7 @@
 # Crumbling Crypt
 A minimalist take on a roguelike dungeoncrawler
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81GBPX)
 
 [**Play in browser**](https://achie72.github.io/switch-jump/)
 [Itch page](https://achie.itch.io/crumbling-crypt)  
@@ -29,4 +30,4 @@ Search the key, uncover where the trapdoor is, and progress further to grab the 
 **Social media:**  
 [Toot at me on Mastodon](https://mastodon.gamedev.place/@Achie7240)
 [Follow me on Twitter](https://twitter.com/Achie7240)  
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81GBPX)
+
