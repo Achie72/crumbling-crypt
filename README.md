@@ -3,7 +3,7 @@ A minimalist take on a roguelike dungeoncrawler
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81GBPX)
 
-[**Play in browser**](https://achie72.github.io/switch-jump/)
+[**Play in browser**](https://achie72.github.io/crumbling-crypt/)
 [Itch page](https://achie.itch.io/crumbling-crypt)  
 [Lexaloffle BBS](https://www.lexaloffle.com/bbs/?tid=141519)
 [SoundCloud](https://soundcloud.com/achiegamedev/crumbling-crypt-main-theme)
